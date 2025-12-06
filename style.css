@@ -41,7 +41,7 @@ body {
 
 .highlight-card:hover {
     transform: translateY(-10px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 8px 20px rgba(239, 28, 98, 0.2);
 }
 
 /* Footer */
@@ -53,4 +53,10 @@ footer {
 
 footer p {
     margin: 5px 0;
+}
+
+.list-group:hover {
+     transform: translateY(-10px);
+    box-shadow: 0 8px 20px rgba(199, 16, 77, 0.2);
+
 }
